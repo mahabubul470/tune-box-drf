@@ -1,0 +1,51 @@
+# Ignore Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env
+.Python
+
+
+# Ignore test and coverage results
+*.cover
+*.coverage
+*.log
+.coverage
+.tox
+nosetests.xml
+coverage.xml
+*.cover
+*.coverage.*
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Django static and media files
+staticfiles/
+media/
+
+# Ignore local environment variables and settings
+.env.local
+.env.production
+.env.staging
+
+# Ignore Docker-related files
+docker-compose.override.yml
+
+# Ignore backup files and other system files
+*.bak
+*.swp
+*~
+*.DS_Store
+Thumbs.db
