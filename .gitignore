@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sql
+*.sqlite3
+db.sqlite3
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.sublime-project
+*.sublime-workspace
+*.project
+*.pydevproject
+
+# Django migrations
+**/migrations/*
+
+# Local settings
+/local_settings.py
+
+# Django static and media files
+/static/
+media/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+
+# Environments
+.env
+.env.local
+.env.production
+.env.staging
+.env.test
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# Translation files
+*.mo
+*.pot
+
+# Logs
+*.log
+
+# Local SQL databases
+*.sqlite3
+
+# Docker files
+*.log
+docker-compose.override.yml
