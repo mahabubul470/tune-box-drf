@@ -50,3 +50,7 @@ python manage.py fetch_deezer_tracks "eminem"
 exec "$@"
 
 ```
+
+### Explore API's using swagger / redoc 
+(https://pipenv.pypa.io/en/latest/index.html)
+> :notebook: **Note:** Please authenticate using the prefix Token
